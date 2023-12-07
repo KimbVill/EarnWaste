@@ -536,37 +536,7 @@ width: 100%;
 height: auto;   
 }
 
-@media screen and (max-width: 480px) {
-  .pro-img-details {
-      width: auto; 
-  }
 
-  .text-class {
-      width: auto; 
-  }
-}
-
-.text-container {
-  width: 150%;
-  margin: 0 auto;
-}
-
-@media screen and (max-width: 768px) {
-  img {
-    width: 100%;
-  }
-
-  .text-container {
-    width: 90%;
-  }
-}
-
-/* Media queries for medium screens */
-@media screen and (max-width: 992px) {
-  .text-container {
-    width: 100%;
-  }
-}
 .pro-d-title {
 font-size: 16px;
 margin-top: 0;
